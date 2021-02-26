@@ -1,3 +1,7 @@
+* body {
+  font-family: 'Goldman', cursive;
+}
+
 .App {
   text-align: center;
 }
@@ -5,6 +9,8 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  color: rgb(224, 30, 104) ;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -21,11 +27,11 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(224, 30, 104) ;
 }
 
 .App-link {
-  color: #61dafb;
+  color: rgb(223, 69, 22) ;
 }
 
 @keyframes App-logo-spin {
